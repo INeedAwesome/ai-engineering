@@ -1,0 +1,4 @@
+model,prompt,output
+llama3.2,What is the capital of Sweden?,The capital of Sweden is Stockholm.
+bonsai-2,What is the capital of Sweden?,The capital of Sweden is **Stockholm**.
+nemotron-3.5-bolt,What is the capital of Sweden?,The capital of Sweden is **Stockholm**.
